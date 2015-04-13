@@ -1,0 +1,24 @@
+{
+    "name": "devgroup/dotplant-dev",
+    "description": "DotPlant2 is an open-source E-Commerce CMS for shops buld with Yii2",
+    "keywords": ["yii", "yii2", "dotplant", "dotplant2", "yii2 shop", "yii shop", "yii cms", "yii2 cms", "yii2 e-commerce", "yii e-commerce"],
+    "homepage": "http://dotplant.ru/",
+    "type": "metapackage",
+    "support": {
+        "issues": "http://redmine.devgroup.su/projects/dotplant2/issues",
+        "source": "https://github.com/DevGroup-ru/dotplant"
+    },
+    "minimum-stability": "dev",
+    "license": "GPL-3.0+",
+    "authors": [
+        {
+            "name": "Alexander Kozhevnikov",
+            "email": "b37hr3z3n@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2-codeception": "dev-master",
+        "yiisoft/yii2-gii": "dev-master",
+        "yiisoft/yii2-debug": "dev-master"
+    }
+}

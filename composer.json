@@ -1,7 +1,7 @@
 {
     "name": "devgroup/dotplant-dev",
-    "description": "DotPlant2 is an open-source E-Commerce CMS for shops build with Yii2",
-    "keywords": ["yii", "yii2", "dotplant", "dotplant2", "yii2 shop", "yii shop", "yii cms", "yii2 cms", "yii2 e-commerce", "yii e-commerce"],
+    "description": "DotPlant is an open-source CMS build with Yii2 including E-Commerce features for shops",
+    "keywords": ["yii", "yii2", "dotplant", "dotplant2", "dotplant3", "yii2 shop", "yii shop", "yii cms", "yii2 cms", "yii2 e-commerce", "yii e-commerce"],
     "homepage": "http://dotplant.ru/",
     "type": "metapackage",
     "support": {
@@ -18,9 +18,9 @@
     ],
     "require": {
         "php": ">=5.5",
-        "yiisoft/yii2-codeception": "~2.0.4",
-        "yiisoft/yii2-gii": "~2.0.4",
-        "yiisoft/yii2-debug": "~2.0.5",
+        "yiisoft/yii2-codeception": "~2.0.5",
+        "yiisoft/yii2-gii": "~2.0.5",
+        "yiisoft/yii2-debug": "~2.0.6",
         "yiisoft/yii2-faker": "~2.0.3",
         "phpunit/phpunit": "~4.8",
         "phpunit/dbunit": "~2.0.2"
